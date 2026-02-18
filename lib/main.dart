@@ -169,7 +169,7 @@ class _RegistroPageState extends State<RegistroPage> {
             color: Colors.blue.shade50, // Azul claro
             boxShadow: [
               BoxShadow(
-                color: Colors.grey.withOpacity(0.1),
+                color: Colors.grey.shade100,
                 spreadRadius: 1,
                 blurRadius: 3,
                 offset: const Offset(0, 2),
